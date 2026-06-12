@@ -25,7 +25,7 @@ En esta etapa, realizamos el despliegue de una aplicación Nginx con las siguien
 
 ### Documentación Completa
 Puedes consultar el reporte detallado con todas las capturas de pantalla aquí:
-[Ver reporte PDF](documento_de_evidencias.pdf)
+[Ver reporte PDF](evidencias.pdf)
 
 ### Configuración del Entorno (Docker & SSH)
 Para asegurar el correcto despliegue del cluster, se configuró el motor de Docker como driver de Minikube y se validó la comunicación con el nodo:
