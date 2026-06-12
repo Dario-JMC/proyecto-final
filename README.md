@@ -1,5 +1,4 @@
-# proyecto-final
-# Proyecto Final: Orquestación con Kubernetes
+# Proyecto Final
 
 ## Integrantes
 Jhojan Dario Mosquera, 
