@@ -2,10 +2,10 @@
 # Proyecto Final: Orquestación con Kubernetes
 
 ## Integrantes
-Jhojan Dario Mosquera
-Kristal sanchez
-Santiago Fajardo
-Nelli Cordoba
+_Jhojan Dario Mosquera
+_Kristal sanchez
+_Santiago Fajardo
+_Nelli Cordoba
 
 ## Pre-requisitos y Configuración Base
 Para garantizar la compatibilidad y el rendimiento del cluster, se configuró el entorno bajo los siguientes parámetros:
