@@ -31,7 +31,7 @@ En esta etapa, se realizo la instalacion de 2 MV Una grafica y una de consola:
 
 **Evidencias:**
 Para una revisión detallada del proceso de instalación, el particionamiento manual y la prueba de conectividad SSH, puedes consultar el documento oficial:
-[📄 Ver Reporte PDF)](evidencias.pdf)
+[📄 Ver Reporte PDF](evidencias.pdf)
 
 ### Componente 3: Orquestación con Kubernetes
 En esta etapa, realizamos el despliegue de una aplicación Nginx con las siguientes características:
@@ -40,7 +40,7 @@ En esta etapa, realizamos el despliegue de una aplicación Nginx con las siguien
 
 ### Documentación Completa
 Puedes consultar el reporte detallado con todas las capturas de pantalla aquí:
-[Ver reporte PDF](evidencias.pdf)
+[📄 Ver reporte PDF](evidencias.pdf)
 
 ### Configuración del Entorno (Docker & SSH)
 Para asegurar el correcto despliegue del cluster, se configuró el motor de Docker como driver de Minikube y se validó la comunicación con el nodo:
